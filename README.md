@@ -21,19 +21,19 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [CureIt](https://github.com/apoorva1823000/CureIT-SSIP.git)
+- 🔭 I’m currently working on [CureIt](https://apoorva-cureit-multidisease-predictor.streamlit.app/)
 
-- 🌱 I’m currently learning **Android, Flutter**
+- 🌱 I’m currently learning **Machine Learning, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/apoorva1823000](https://github.com/apoorva1823000)
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/apoorva-mehta-92655421a/)
+- 📝 I often write articles on [LinkedIn](https://www.linkedin.com/in/apoorva-mehta-92655421a/)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development and ML**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1ehjM2tPZ35z7fF09T6pKQ6KQ72grNWSC/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1usdsYXvfoGXIGiQos5lyr4omvFDyIyTk/view?usp=sharing)
 
-- ⚡ Fun fact: **I think I spend more time coding on the dining table than in the study room**
+- ⚡ Fun fact: **Along with being a Research Scholar I am also a Karateka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
