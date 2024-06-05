@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Apoorva .S. Mehta</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate ML Enthusiast from India</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=apoorva1823000&label=Profile%20views&color=52fff3&style=flat" alt="apoorva1823000" />
